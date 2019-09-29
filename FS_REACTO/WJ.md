@@ -1,7 +1,7 @@
 # Wei Ji
 
 > New York, NY | 270.240.6656 | <weirdoji@gmail.com>
-
+>
 > [Github](https://github.com/sojour) | [LinkedIn](http://linkedin.com/in/wei-j)
 
 ## TECHNICAL SKILLS
