@@ -99,11 +99,13 @@ function intersection(arrA, arrB) {
     const elemB = arrB[idxB];
     if (elemA == elemB) {
       shared.push(elemA);
+      idxA++;
+      idxB++;
     }
-    if (elemA <= elemB) {
+    if (elemA < elemB) {
       idxA++;
     }
-    if (elemA >= elemB) {
+    if (elemA > elemB) {
       idxB++;
     }
   }
