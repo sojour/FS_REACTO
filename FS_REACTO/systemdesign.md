@@ -66,9 +66,9 @@ The main parameter they should try to figure out is how to attach a user to a re
 
 Sample Parameters:
 
-- sessionID (string) to keep track of a specified user's reservation
-- movieID (string) to reserve
-- showingID (string) to reserve
+- sessionID (number) to keep track of a specified user's reservation
+- movieID (number) to reserve
+- showingID (number) to reserve
 - seatsReserved (array)
 
 Depending on the status of the reservation, we can return successful or failed
